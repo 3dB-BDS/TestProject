@@ -1,30 +1,30 @@
-# TestProject - blackdogsound.lv ASCII art
-**Autors:** 3dB-BDS
+# TestProject - blackdogsound.lv logo ASCII art
+**Autor:** 3dB-BDS
 
 ---
 
 ## Description
-This is a test project for learning Git and GitHub purposes.
+This project demonstrates basic Python scripting and ASCII art rendering.
+It is intended for learning Git and GitHub workflows.
 
 ---
 
 ## Files
-- `.gitignore` – Config file that lists files to ignore for git
-- `dog.py` – Draws ASCII art logo of blackdogsound.lv on screen
-- `README.md` – This file. Readme file.
+- **.gitignore** – Config file specifying files Git should ignore
+- **dog.py** – Draws the ASCII art logo of blackdogsound.lv
+- **README.md** – This file
 
 ---
 
-## How to start
-1. Install Python
-2. Open terminal in project folder
-3. Run command:
-
+## How to Start
+1. Install Python 3.8+
+2. Open a terminal in the project folder
+3. Run:
+```bash
+python bds.py
 ```
-python dog.py
-```
 
-ASCII art logo of blackdogsound.lv will be drawn on screen.
+This will display the ASCII art logo of blackdogsound.lv.
 
 ---
 
