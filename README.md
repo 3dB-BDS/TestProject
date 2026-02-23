@@ -4,7 +4,7 @@
 ---
 
 ## Description
-This is test project for learning Git and GitHub purposes.
+This is a test project for learning Git and GitHub purposes.
 
 ---
 
