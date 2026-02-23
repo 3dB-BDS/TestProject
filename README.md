@@ -107,6 +107,6 @@ This will display the ASCII art logo of blackdogsound.lv.
 
 ## Used Technology
 
-Python: 3.8+
-Git: 2.53.0.windows.1
-GitHub
+- Python: 3.8+
+- Git: 2.53.0.windows.1
+- GitHub
