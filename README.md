@@ -1,5 +1,5 @@
 # TestProject - blackdogsound.lv logo ASCII art
-**Autor:** 3dB-BDS
+**Author:** 3dB-BDS
 
 ---
 
@@ -108,3 +108,5 @@ This will display the ASCII art logo of blackdogsound.lv.
 ## Used Technology
 
 Python: 3.8+
+Git: 2.53.0.windows.1
+GitHub
