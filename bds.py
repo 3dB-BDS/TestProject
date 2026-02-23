@@ -1,4 +1,6 @@
-bds = """
+# blackdogsound.lv ASCII art logo
+
+logo = """
 
 
                                                                                                                                              
@@ -68,4 +70,4 @@ bds = """
                                 
 """
 
-print(bds)
+print(logo)
